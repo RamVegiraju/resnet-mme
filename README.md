@@ -1,2 +1,2 @@
 # resnet-mme
-MME example of Resnet with TF
+MME example of Resnet50 with TF
